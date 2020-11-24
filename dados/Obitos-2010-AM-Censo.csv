@@ -1,0 +1,24 @@
+﻿Idade;Homens;Mulheres;Ignorados
+Menos de 1 ano;654;553;0
+1 a 4 anos;256;188;0
+5 a 9 anos;108;80;0
+10 a 14 anos;105;81;0
+15 a 19 anos;350;147;0
+20 a 24 anos;475;140;0
+25 a 29 anos;455;144;0
+30 a 34 anos;380;160;0
+35 a 39 anos;345;184;0
+40 a 44 anos;329;207;0
+45 a 49 anos;351;229;0
+50 a 54 anos;414;287;0
+55 a 59 anos;468;309;0
+60 a 64 anos;557;359;0
+65 a 69 anos;525;428;0
+70 a 74 anos;661;478;0
+75 a 79 anos;673;467;0
+80 a 84 anos;500;522;0
+85 a 89 anos;420;452;0
+90 a 94 anos;180;240;0
+95 a 99 anos;100;198;0
+100 anos ou mais;32;76;0
+Idade ignorada;2;1;0
